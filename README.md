@@ -1,4 +1,4 @@
-<h3 align="center">Mi nombre es Anthony y soy Un apasionado por el desarrollado FrontEnd</h3>
+<h3 align="center">Mi nombre es Anthony y soy Un apasionado por la tecnologia</h3>
 <h3 align="left">🔗 Links:</h3><p align="left">
 
  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RGelBAnthony?tab=repositories)
